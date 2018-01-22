@@ -1,0 +1,7 @@
+[package]
+name = "table_conv"
+version = "0.1.0"
+authors = ["Zoe Juozapaitis <Jragonmiris@gmail.com>"]
+
+[dependencies]
+rlua = "0.9"
